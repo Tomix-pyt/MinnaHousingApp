@@ -40,5 +40,3 @@ Now the project should be up and running on your local host. You can enter /admi
 If you faced any questions don't hesitate to ask me .
 
 Regards to My mentor: https://tuts.arashtad.com
-Linkedin: https://www.linkedin.com/company/arashtad
-Twitter: https://twitter.com/arashtad
